@@ -1,0 +1,22 @@
+namespace: ibt23sec5
+name: system-show
+version: 1.0.0
+readme: README.md
+
+authors:
+- Ladislav Cabelka <@ibt23sec5>
+
+
+description: Detailed information about host state and configuration
+license:
+- GPL-3.0-or-later
+
+license_file: "LICENSE"
+
+tags: ["system", "facts", "info", "psutil", "tool"]
+
+repository: https://github.com/ibt23sec5/ansible-collection-system-show.git
+documentation: https://github.com/ibt23sec5/ansible-collection-system-show/README.md
+homepage: https://github.com/ibt23sec5/ansible-collection-system-show
+issues: https://github.com/ibt23sec5/ansible-collection-system-show/issues
+
