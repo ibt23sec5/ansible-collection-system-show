@@ -1,0 +1,7 @@
+---
+- name: System facts
+  system_facts:
+    subsets: {{ subsets }}
+    pid_columns: {{ pid_columns }}
+    net_connections_kind: {{ net_connections_kind }}
+...
